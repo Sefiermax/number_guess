@@ -23,5 +23,3 @@ def computer_guess(x):
 			low = guess +1
 
 print(f'Muwhahahah! Your number MUST BE {guess} Skynet is real and here is my proof!')
-
-guess(3)
